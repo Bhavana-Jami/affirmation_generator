@@ -1,7 +1,7 @@
-#Affirmation Generator
+# Affirmation Generator
 
 This is a desktop website that gives you random affirmations to boost your day.I've used an api called "affirmations" to generate random affirmations and
-I've used HTML,CSS for styling and added JS to move between pages and to make it more interactive.
+# I've used HTML,CSS for styling and added JS to move between pages and to make it more interactive.
 
 Here are some picture of it working,
 
